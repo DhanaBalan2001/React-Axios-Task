@@ -1,8 +1,8 @@
 import React from 'react'
-import Home from '../components/Home'
-import Dashboard from '../components/Dashboard'
-import Create from '../components/Create'
-import Edit from '../components/Edit'
+import Home from '../Components/Home'
+import Dashboard from '../Components/Dashboard'
+import Create from '../Components/Create'
+import Edit from '../Components/Edit'
 import { Navigate } from 'react-router-dom'
 
 const AppRoutes = [
